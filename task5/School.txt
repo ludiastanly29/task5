@@ -1,0 +1,45 @@
+
+School Management System :
+
+------------------------------------------
+
+1. Add a student name and grade 
+2. Seperate students name starts with 'A' 
+3. Exit
+Enter your choice: 1
+Enter the total number of students to store in the class: 
+2
+Enter the 2 number of students name to store: 
+Ashok
+Ludia
+Students created successfully
+------------------------------------------
+
+List of Students available in the class:
+------------------------------------------
+
+Ashok
+Ludia
+
+School Management System :
+
+------------------------------------------
+
+1. Add a student name and grade 
+2. Seperate students name starts with 'A' 
+3. Exit
+Enter your choice: 2
+List of students name starts with 'A':
+Ashok
+
+------------------------------------------
+
+
+School Management System :
+
+------------------------------------------
+
+1. Add a student name and grade 
+2. Seperate students name starts with 'A' 
+3. Exit
+Enter your choice: 

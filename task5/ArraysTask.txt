@@ -1,0 +1,14 @@
+Enter strings (type 'exit' to stop):
+test
+
+get
+lot
+
+van
+bus
+
+muo
+exit
+Original list: [test, , get, lot, , van, bus, , muo]
+non-empty list: [test, get, lot, van, bus, muo]
+

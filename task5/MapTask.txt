@@ -1,0 +1,10 @@
+Enter strings (type 'exit' to stop):
+TesT
+aBcS
+Ludia
+Litasha
+LisAh
+exit
+Original list: [TesT, aBcS, Ludia, Litasha, LisAh]
+Uppercase list: [TEST, ABCS, LUDIA, LITASHA, LISAH]
+
