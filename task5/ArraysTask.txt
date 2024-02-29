@@ -1,14 +1,9 @@
-Enter strings (type 'exit' to stop):
+Enter the total number of strings to store: 
+3
+Enter strings
 test
 
-get
-lot
+gig
 
-van
-bus
-
-muo
-exit
-Original list: [test, , get, lot, , van, bus, , muo]
-non-empty list: [test, get, lot, van, bus, muo]
-
+Original list: [test, , gig]
+non-empty list: [test, gig]
